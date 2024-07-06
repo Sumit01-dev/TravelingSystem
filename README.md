@@ -1,0 +1,2 @@
+# This Project is desktop based Application, Where user can access their all details related to traveling, ID's and Trips.All type of Facilities are available on a single desktop, Which helps the traveller to get things easily.
+# It is fully made with Java with Swing and Awt package. Some Dbms And Oops concepts are used in this project and the Database used SQL with JDBC connectivity.
